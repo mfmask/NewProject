@@ -1,0 +1,2 @@
+# NewProject
+This is awesome.
